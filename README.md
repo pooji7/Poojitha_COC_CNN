@@ -36,8 +36,10 @@ The CNN model architecture consists of convolutional layers, activation function
 ## Dataset
 
 The dataset used for training and testing the CNN model is stored on Google Drive. You can access the dataset from [this Google Drive link]
-test_set [https://drive.google.com/drive/folders/1cEc4MzyHDNu9mDbWOqECmgtQE5CrmSJm?usp=drive_link]
-training_set [https://drive.google.com/file/d/17b9PMVgEZr3bwCL2QWb0AKtFQsVLhlmm/view?usp=drive_link]
+test_set 
+[https://drive.google.com/drive/folders/1cEc4MzyHDNu9mDbWOqECmgtQE5CrmSJm?usp=drive_link]
+training_set 
+[https://drive.google.com/file/d/17b9PMVgEZr3bwCL2QWb0AKtFQsVLhlmm/view?usp=drive_link]
 
 ## Result
 
